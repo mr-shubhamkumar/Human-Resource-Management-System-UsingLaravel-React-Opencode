@@ -6,10 +6,10 @@ A Laravel and React-based HR management system for organizing and monitoring emp
 
 ## Screenshots
 
-- [Employees](2Employess.png)
-- [Departments](3Departments.png)
-- [Positions](3Positions.png)
-- [Attendance](4Attendance.png)
-- [Leave Requests](5Leave%20Requests.png)
-- [Payrolls](6Payrolls.png)
-- [Payslips](7Payslips.png)
+- [Employees (2Employess.png)]
+- [Departments (3Departments.png)]
+- [Positions (3Positions.png)]
+- [Attendance (4Attendance.png)]
+- [Leave Requests (5Leave%20Requests.png)]
+- [Payrolls (6Payrolls.png)]
+- [Payslips (7Payslips.png)]
